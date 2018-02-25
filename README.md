@@ -1,9 +1,9 @@
 # Prueba_Tecnica
 
-##Instalación
+## Instalación
 
--npm install
+- npm install
 
-##Ejecución
+## Ejecución
 
--react-native run-android
+- react-native run-android
